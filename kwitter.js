@@ -1,4 +1,4 @@
-function logout()
+function login()
 {
     user= document.getElementById("earphones").value;
     localStorage.setItem("username",user);
